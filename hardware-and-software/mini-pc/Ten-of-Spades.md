@@ -67,10 +67,10 @@ services:
       - /home/YOUR-USERNAME/docker/npm/mysql:/var/lib/mysql #CHANGE "YOUR-USERNAME" to your actual username
     restart: unless-stopped
 ```
-<img src="https://github.com/arm-ser/house-of-cards/blob/a611c42de22c306cf98aaaf1be3242cec8c75f3d/logos/youtube.png" width="15" />  [NginX Proxy Manager Tutorial](https://www.youtube.com/watch?v=RBVcnxTiIL0)    
-<img src="https://github.com/arm-ser/house-of-cards/blob/a611c42de22c306cf98aaaf1be3242cec8c75f3d/logos/youtube.png" width="15" /> [Securing NGinX Proxy Manager](https://www.youtube.com/watch?v=UfCkwlPIozw)    
-<img src="https://github.com/arm-ser/house-of-cards/blob/a611c42de22c306cf98aaaf1be3242cec8c75f3d/logos/youtube.png" width="15" /> [Putting it All Together - Docker, Docker-Compose, NGinx Proxy Manager, and Domain Routing](https://www.youtube.com/watch?v=cjJVmAI1Do4)     
-<img src="https://github.com/arm-ser/house-of-cards/blob/a611c42de22c306cf98aaaf1be3242cec8c75f3d/logos/youtube.png" width="15" /> [Docker and Running your self-hosted applications in a more secure way behind a reverse proxy.](https://www.youtube.com/watch?v=8T68pB_Fkm4)     
+<img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" />  [NginX Proxy Manager Tutorial](https://www.youtube.com/watch?v=RBVcnxTiIL0)    
+<img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [Securing NGinX Proxy Manager](https://www.youtube.com/watch?v=UfCkwlPIozw)    
+<img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [Putting it All Together - Docker, Docker-Compose, NGinx Proxy Manager, and Domain Routing](https://www.youtube.com/watch?v=cjJVmAI1Do4)     
+<img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [Docker and Running your self-hosted applications in a more secure way behind a reverse proxy.](https://www.youtube.com/watch?v=8T68pB_Fkm4)     
 
 ### Pi-Hole, Unbound
 ```yaml
@@ -99,9 +99,9 @@ services:
 Note: Do not Forget to Define WEBPASSWORD variable. Here is how to do it in Portainer. When creating stack, push "+ Add an environment variable" and fill up the name and value fields
 
 ![pihole-web-pass](/logos-screenshots/pihole-web-pass.png)  
-<img src="https://github.com/arm-ser/house-of-cards/blob/d6699680eceb39d2fed1ced15b7a8582ef162ca5/logos/docker.png" width="15" /> [Pi-Hole Unbound GIT](https://github.com/chriscrowe/docker-pihole-unbound)   
+<img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/docker.png?raw=true" width="15" /> [Pi-Hole Unbound GIT](https://github.com/chriscrowe/docker-pihole-unbound)   
 
-Here is another way of configuring pihole and unbound: <img src="https://github.com/arm-ser/house-of-cards/blob/a611c42de22c306cf98aaaf1be3242cec8c75f3d/logos/youtube.png" width="15" /> [WireHole: WireGuard, Pi-Hole and Unbound in Docker](https://www.youtube.com/watch?v=DOJ39lyx6Js)  
+Here is another way of configuring pihole and unbound: <img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [WireHole: WireGuard, Pi-Hole and Unbound in Docker](https://www.youtube.com/watch?v=DOJ39lyx6Js)  
 
 ### NextCloud
 ```yaml
@@ -140,7 +140,7 @@ services:
     
 ```
 
-Here is another way of configuring nextcloud: <img src="https://github.com/arm-ser/house-of-cards/blob/a611c42de22c306cf98aaaf1be3242cec8c75f3d/logos/youtube.png" width="15" /> [Nextcloud One Container Tutorial](https://www.youtube.com/watch?v=OCLq62KOqNU)
+Here is another way of configuring nextcloud: <img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [Nextcloud One Container Tutorial](https://www.youtube.com/watch?v=OCLq62KOqNU)
 
 ### Duplicati
 ```yaml
