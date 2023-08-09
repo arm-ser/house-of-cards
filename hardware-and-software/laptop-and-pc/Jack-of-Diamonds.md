@@ -2,9 +2,10 @@ This file contains documentation and information about the  **DELL Inspiron** La
 
 ## Hardware
 
-| Laptop           | Processor                   | RAM  | Storage   | Ethernet Ports | Price | Amazon Link                                                                                      |
-| ---------------- | --------------------------- | ---- | --------- | -------------- | ----- | ------------------------------------------------------------------------------------------------ |
-| Inspiron 15 5559 | Intel Core i7-6500U 2.5 GHz | 16GB | 128GB SSD | 1 Intel 1GbE   |       | [Link](https://www.amazon.com/Dell-i5559-7080SLV-Touchscreen-RealSense-Generation/dp/B015JVFE0A) |
+| Mini PC <img width=160/> | Processor                   | RAM        | Storage    | Ethernet Ports | Price |                     Amazon Link                      |
+|:------------------------ |:--------------------------- |:---------- |:---------- |:-------------- |:----- |:----------------------------------------------------:|
+| MeLE Quieter3Q Mini PC   | Intel Celeron N5105 2.7 GHz | 8GB LPDDR4 | ‎256GB SSD | 1 Intel 1GbE   | $250  | [Link](https://www.amazon.com/gp/product/B09TGN1MWV) |
+
 
 ## Software
 
