@@ -17,5 +17,5 @@ This file contains documentation and information about the **VNOPN Mini PC** use
 
 ## Resources
 
-- <img src="https://github.com/arm-ser/house-of-cards/blob/a611c42de22c306cf98aaaf1be3242cec8c75f3d/logos/youtube.png" width="15" /> [Playlist: Comprehensive Guide To pfSense 2.3](https://www.youtube.com/playlist?list=PLE726R7YUJTePGvo0Zga2juUBxxFTH4Bk)
-- <img src="https://github.com/arm-ser/house-of-cards/blob/a611c42de22c306cf98aaaf1be3242cec8c75f3d/logos/youtube.png" width="15" /> [How to Install WireGuard on pfSense (Tutorial)](https://www.youtube.com/watch?v=MZf2rOnQ4jc)
+- <img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [Playlist: Comprehensive Guide To pfSense 2.3](https://www.youtube.com/playlist?list=PLE726R7YUJTePGvo0Zga2juUBxxFTH4Bk)
+- <img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [How to Install WireGuard on pfSense (Tutorial)](https://www.youtube.com/watch?v=MZf2rOnQ4jc)
