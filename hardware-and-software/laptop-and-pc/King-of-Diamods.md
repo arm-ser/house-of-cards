@@ -25,4 +25,4 @@ This file contains documentation and information about the **Board Only PC** use
 ##### Resources
 
 
-- <img src="https://github.com/arm-ser/house-of-cards/blob/a611c42de22c306cf98aaaf1be3242cec8c75f3d/logos/youtube.png" width="15" /> [How to Mount SMB Network Drive in Linux](https://www.youtube.com/watch?v=v2WMnZoiGog)
+- <img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [How to Mount SMB Network Drive in Linux](https://www.youtube.com/watch?v=v2WMnZoiGog)
