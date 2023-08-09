@@ -2,9 +2,9 @@ This file contains documentation and information about the **MeLE Quieter3Q Mini
 
 ## Hardware
 
-| Mini PC <img width=160/> | Processor                   | RAM        | Storage    | Ethernet Ports | Price |                     Amazon Link                      |
-|:------------------------ |:--------------------------- |:---------- |:---------- |:-------------- |:----- |:----------------------------------------------------:|
-| MeLE Quieter3Q Mini PC   | Intel Celeron N5105 2.7 GHz | 8GB LPDDR4 | ‎256GB SSD | 1 Intel 1GbE   | $250  | [Link](https://www.amazon.com/gp/product/B09TGN1MWV) |
+| Mini PC <img width=167/> | Processor                   | RAM       | Storage    | Ethernet Ports | Price |                     Amazon Link                      |
+|:------------------------ |:--------------------------- |:--------- |:---------- |:-------------- |:----- |:----------------------------------------------------:|
+| GMKtec Nucbox 8 Mini PC  | Intel Celeron N4100 2.4 GHz | 6GBB DDR4 | ‎128GB SSD | 1 Intel 1GbE   | $130  | [Link](https://www.amazon.com/gp/product/B0BGHGCTPB) |
 
 ## Software
 
