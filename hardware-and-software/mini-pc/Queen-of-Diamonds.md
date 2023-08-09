@@ -1,4 +1,4 @@
-This file contains documentation and information about the **MeLE Quieter3Q Mini PC** used in my home lab.
+This file contains documentation and information about the **GMKtec Nucbox Mini PC** used in my home lab.
 
 ## Hardware
 
