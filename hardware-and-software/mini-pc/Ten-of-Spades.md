@@ -162,7 +162,7 @@ services:
     restart: unless-stopped
 ```
 
-<img src="https://github.com/arm-ser/house-of-cards/blob/a611c42de22c306cf98aaaf1be3242cec8c75f3d/logos/youtube.png" width="15" /> [Duplicati a Set it and Forget it backup tool for local and remote backups](https://www.youtube.com/watch?v=N1NRvg4KaDE)
+<img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [Duplicati a Set it and Forget it backup tool for local and remote backups](https://www.youtube.com/watch?v=N1NRvg4KaDE)
 
 ##### Resources
 [📄 List of tz database time zones](https://infogalactic.com/info/List_of_tz_database_time_zones)   
