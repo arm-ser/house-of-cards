@@ -1,4 +1,4 @@
-This file contains documentation and information about the  **DELL Inspiron** Laptop used in my home lab.
+This file contains documentation and information about the  **MeLE Mini PC** Laptop used in my home lab.
 
 ## Hardware
 
