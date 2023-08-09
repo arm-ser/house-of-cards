@@ -20,4 +20,4 @@ This file contains documentation and information about the **CTONE T8 Pro Mini P
 
 #### Resources
 
-<img src="https://github.com/arm-ser/house-of-cards/blob/a611c42de22c306cf98aaaf1be3242cec8c75f3d/logos/youtube.png" width="15" /> [The open source alternative to my sponsor - Jellyfin vs Plex](https://www.youtube.com/watch?v=jKF5GtBIxpM)
+<img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [The open source alternative to my sponsor - Jellyfin vs Plex](https://www.youtube.com/watch?v=jKF5GtBIxpM)
