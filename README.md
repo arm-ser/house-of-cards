@@ -1,6 +1,6 @@
 # House of Cards
 
-I would like to take a moment and thank people that played very important role in my learning process (SEE Teachers Section). Their informative and engaging videos, articles and classes have simplified complex topics, making them accessible and enjoyable for me to grasp. Their dedication to sharing knowledge has had a profound impact on my growth, and I am truly thankful for their valuable contributions. I encourage you to subscribe and contribut to their work. Best regards to all of you. 
+I would like to take a moment and thank people that played very important role in my learning process (SEE Teachers Section). Their informative and engaging videos, articles and classes have simplified complex topics, making them accessible and enjoyable for me to grasp. Their dedication to sharing knowledge has had a major impact on my growth, and I am truly thankful for their valuable contributions. I encourage you to subscribe and contribut to their work. Best regards to all of you. 
 
 ## Home Lab
 
