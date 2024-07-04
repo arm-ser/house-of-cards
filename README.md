@@ -16,7 +16,7 @@ This repository contains the configuration files and documentation for my home l
 | -------------------------------------------------------------------------- | ---------------------------------- |
 | [Ace-of-Spades](/hardware-and-software/mini-pc/Ace-of-Spades.md)           | Main Router and Firewall           |
 | [Ten-of-Spades](/hardware-and-software/mini-pc/Ten-of-Spades.md)           | Reverse Proxy Server in DMZ        |
-| [Seven-of-Spades](/hardware-and-software/laptop-and-pc/Seven-of-Spades.md) | Powerful server for Jellyfin       |
+| [Seven-of-Spades](/hardware-and-software/laptop-and-pc/Seven-of-Spades.md) | AI Testbench                       |
 | [Six-of-Spades](/hardware-and-software/mini-pc/Six-of-Spades.md)           | Server of different types of media | 
 	
 | Name On the Network<img width=90/>                                           | Description<img width=210/>          |
