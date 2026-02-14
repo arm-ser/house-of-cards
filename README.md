@@ -1,8 +1,8 @@
 # House of Cards
 
-## 📢 Version 2 Available
+## 📢 A Newer Version is Available
 
-**A newer version of this project is now available at [house-of-cards-v1](https://github.com/arm-ser/house-of-cards-v1)**
+**A newer version of this project is now available at [House of Cards](https://github.com/arm-ser/house-of-cards-v1)**
 
 ---
 
