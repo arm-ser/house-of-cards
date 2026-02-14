@@ -1,6 +1,10 @@
 # House of Cards
 
-I would like to take a moment and thank people that played very important role in my learning process (SEE Teachers Section). Their informative and engaging videos, articles and classes have simplified complex topics, making them accessible and enjoyable for me to grasp. Their dedication to sharing knowledge has had a major impact on my growth, and I am truly thankful for their valuable contributions. I encourage you to subscribe and contribut to their work. Best regards to all of you. 
+## 📢 Version 2 Available
+
+**A newer version of this project is now available at [house-of-cards-v1](https://github.com/arm-ser/house-of-cards-v1)**
+
+---
 
 ## Home Lab
 
@@ -58,6 +62,12 @@ Here are my future learning plans and a simple roadmap to guide my progress and 
 <img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [Ventoy Tutorial](https://www.youtube.com/watch?v=-hs4mH7uBkk)   
 <img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [Obsidian Tutorial Playlist](https://www.youtube.com/playlist?list=PL5fd4SsfvECy0zzf8Cyo20ZoipEt6YeL3)
 
+-----
+
+### Acknowledgments
+
+I would like to take a moment and thank the people that played very important roles in my learning process (see Teachers section below). Their informative and engaging videos, articles, and classes have simplified complex topics, making them accessible and enjoyable for me to grasp. Their dedication to sharing knowledge has had a major impact on my growth, and I am truly thankful for their valuable contributions. I encourage you to subscribe and contribute to their work. Best regards to all of you.
+
 ### Teachers 
 
 <img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [Awesome Open Source](https://www.youtube.com/@AwesomeOpenSource/featured) <img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [Lawrence Systems](https://www.youtube.com/@LAWRENCESYSTEMS) <img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [DB Tech](https://www.youtube.com/@DBTechYT) <img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [Raid Owl](https://www.youtube.com/@RaidOwl) <img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [Ben Eater](https://www.youtube.com/@BenEater) <img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [IBRACORP](https://www.youtube.com/@IBRACORP) <img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [Techno Tim](https://www.youtube.com/@TechnoTim) <img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [Mark Furneaux](https://www.youtube.com/@TheUbuntuGuy) <img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [Christian Lempa](https://www.youtube.com/@christianlempa) <img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/youtube.png?raw=true" width="15" /> [John Hammond](https://www.youtube.com/@_JohnHammond)
@@ -68,9 +78,7 @@ Here are my future learning plans and a simple roadmap to guide my progress and 
   
 <img src="https://github.com/arm-ser/house-of-cards/blob/main/logos-screenshots/tumo.png?raw=true" width="15" /> [Tumo Center Of Creative Technologies](https://tumo.org/)     
 
+-----
 
 ##### Disclaimer
 This home lab is intended strictly for educational and experimental purposes. Any use of information provided in this lab for illegal or unethical activities is strictly prohibited. The creator cannot be held responsible for any consequences resulting from misuse. By accessing and using information provided in this lab, you acknowledge and agree to comply with all applicable laws and ethical guidelines. Use this information responsibly and at your own risk.
-
-
-
